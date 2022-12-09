@@ -1,12 +1,12 @@
 # app-dev
 My first repository
 ---
-**My Favorite Movies**
+## **My Favorite Movies**
 1. *Top Gun* ![Top Gun](Top Gun.jpg)
 2. *Top Gun: Maverick*
 3. *John Wick*
 4. ---
- **My Favorite Series**
+## **My Favorite Series**
  1. *The Disastrous Life of Saiki K.*
  2. *One Punch Man*
  3. *Zoids: Chaotic Century*
