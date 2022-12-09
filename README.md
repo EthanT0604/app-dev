@@ -2,7 +2,7 @@
 My first repository
 ---
 **My Favorite Movies**
-1. *Top Gun* ![alt text](Top Gun.jpg)
+1. *Top Gun* ![Top Gun](Top Gun.jpg)
 2. *Top Gun: Maverick*
 3. *John Wick*
 4. ---
